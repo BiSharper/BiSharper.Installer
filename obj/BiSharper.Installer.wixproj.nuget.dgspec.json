@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\projects\\csharp\\BiSharper\\src\\BiSharper.Installer\\BiSharper.Installer.wixproj": {}
+  },
+  "projects": {
+    "E:\\projects\\csharp\\BiSharper\\src\\BiSharper.Installer\\BiSharper.Installer.wixproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\projects\\csharp\\BiSharper\\src\\BiSharper.Installer\\BiSharper.Installer.wixproj",
+        "projectName": "BiSharper.Installer",
+        "projectPath": "E:\\projects\\csharp\\BiSharper\\src\\BiSharper.Installer\\BiSharper.Installer.wixproj",
+        "packagesPath": "C:\\Users\\ryann\\.nuget\\packages\\",
+        "outputPath": "E:\\projects\\csharp\\BiSharper\\src\\BiSharper.Installer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ryann\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "native"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/disqord/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "native": {
+            "targetAlias": "native",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "native": {
+          "targetAlias": "native"
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

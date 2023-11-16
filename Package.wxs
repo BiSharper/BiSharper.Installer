@@ -1,0 +1,9 @@
+﻿<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+  <Package Name="BiSharper Installer" Manufacturer="Ryann (FlipperPlz)" Version="1.0.0.0" UpgradeCode="5d24262c-8904-47e6-92ad-f308d90de19e">
+    <MajorUpgrade DowngradeErrorMessage="!(loc.DowngradeError)" />
+
+    <Feature Id="Main">
+      <ComponentGroupRef Id="ExampleComponents" />
+    </Feature>
+  </Package>
+</Wix>
